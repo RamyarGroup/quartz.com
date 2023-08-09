@@ -104,7 +104,7 @@ header .fa-bars{
     display: flex;
     align-items: center;
     min-height: 100vh;
-    background: url(./kkk.JPG) no-repeat;
+    background: url('./kkk.JPG') no-repeat;
     background-size: cover;
     background-position: center;
 
@@ -321,7 +321,7 @@ header .fa-bars{
 }
 
 .aa{
-    background: url(./ppp.JPG);
+    background: url('./ppp.JPG');
     background-attachment: fixed;
     background-size: 100% 100%;
     width: 100%;
